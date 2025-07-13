@@ -1,1 +1,5 @@
+hhh<<<<<<< HEAD
 i am lying 
+=======
+seeeeeeeeeeeeeeeeyouuuuuuuuuuuuuuuuuuuuuuuuu
+>>>>>>> first

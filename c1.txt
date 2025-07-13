@@ -1,1 +1,5 @@
+hh<<<<<<< HEAD
 but i dont follow it now 
+=======
+byeyeyeyeyeey
+>>>>>>> first

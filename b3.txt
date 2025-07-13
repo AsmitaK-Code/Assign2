@@ -1,1 +1,5 @@
+jjj<<<<<<< HEAD
 i am 22yr old
+=======
+byeeeeeeeeeeeeeeeeeeeeeeeeeeee
+>>>>>>> first

@@ -1,1 +1,5 @@
+hh<<<<<<< HEAD
 i love myself
+=======
+hihihihiiiihihihh
+>>>>>>> first
